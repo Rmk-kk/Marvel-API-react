@@ -1,4 +1,4 @@
-#Simple app built on React using Marvel open API. You can search for characters, comics, get random characters with requests to their server.
+# Simple app built on React using Marvel open API. You can search for characters, comics, get random characters with requests to their server.
 
 # Getting Started with Create React App
 
